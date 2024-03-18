@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pmarkaide&theme=dark" />
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pmarkaide"/></a>
-</picture>
-</p>
 

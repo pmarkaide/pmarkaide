@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Junior developer studying at [hive.fi](Hive Helsinki)
 
 

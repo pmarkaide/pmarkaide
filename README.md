@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Junior developer studying at [hive.fi](Hive Helsinki)
+Junior developer studying at [Hive Helsinki](https://hive.fi)
+
+<div align="center">
+	  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarkaide&layout=compact&show_icons=true" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=pmarkaide&show_icons=ture" />
+</div>
 
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Junior developer studying at [Hive Helsinki](https://hive.fi)
+Junior developer studying at [Hive Helsinki](https://www.hive.fi/en/)
 
 <div align="center">
 	  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarkaide&layout=compact&show_icons=true" />

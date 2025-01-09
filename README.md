@@ -1,25 +1,16 @@
-### Hi there 👋
+# Hello World!🦖
 
-<!--
-**pmarkaide/pmarkaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Backend Development enthusiast and Hive Helsinki student specializing in server-side Kotlin programming. Dedicated to continuous learning, solving complex problems, and sharing knowledge through detailed documentation. Striving to build scalable, high-performance backend systems.
 
-Here are some ideas to get you started:
+### Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-F4B728?style=for-the-badge&logo=amazon-web-services&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Junior developer studying at [Hive Helsinki](https://www.hive.fi/en/)
-
-<div align="center">
-	  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarkaide&layout=compact&show_icons=true" />
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=pmarkaide&show_icons=ture" />
-</div>
 
 

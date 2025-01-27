@@ -12,6 +12,10 @@ Backend Development enthusiast and Hive Helsinki student specializing in server-
 ![AWS](https://img.shields.io/badge/AWS-F4B728?style=for-the-badge&logo=amazon-web-services&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white)
 
+## Projects
+* [Event42Sync](https://github.com/pmarkaide/Event42Sync): a Backend service that synchronizes events from a given 42 campus into Google Calendar. Written in Kotlin and deployed as an AWS lambda function.
+
+
 ### 42 School Projects
 | Category | Project | Learning Outcomes |
 |----------|---------|------------------|

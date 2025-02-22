@@ -14,6 +14,7 @@ Backend Development enthusiast and Hive Helsinki student specializing in server-
 
 ## Projects
 * [Event42Sync](https://github.com/pmarkaide/Event42Sync): a Backend service that synchronizes events from a given 42 campus into Google Calendar. Written in Kotlin and deployed as an AWS lambda function.
+* [StudentAtPace42](https://github.com/pmarkaide/StudentAtPace42): track which students are behind the expected 18 month Roadmap at Hive Helsinki.
 
 
 ### 42 School Projects

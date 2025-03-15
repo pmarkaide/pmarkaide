@@ -11,6 +11,7 @@ Backend Development enthusiast and Hive Helsinki student specializing in server-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-F4B728?style=for-the-badge&logo=amazon-web-services&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Projects
 * [Event42Sync](https://github.com/pmarkaide/Event42Sync): a Backend service that synchronizes events from a given 42 campus into Google Calendar. Written in Kotlin and deployed as an AWS lambda function.
@@ -28,7 +29,8 @@ Backend Development enthusiast and Hive Helsinki student specializing in server-
 | **System** | [pipex](https://github.com/pmarkaide/42_pipex) | Replicate pipe behaviour in C, learning about file descriptors |
 | | [philosophers](https://github.com/pmarkaide/42_philosophers) | Dining philosophers problem, mastering thread synchronization and deadlock prevention |
 | | [minishell](https://github.com/pmarkaide/42_minishell) | Built a shell taking bash as reference |
+| | [inception](https://github.com/pmarkaide/42_inception) | Learned Docker, containerization, and system administration |
 | **Algorithms** | [push_swap](https://github.com/pmarkaide/42_push_swap) | Developed efficient sorting algorithms and stack manipulation |
 | **Networking** | net_practice | Hands-on TCP/IP networking and subnet configuration |
-| | [ft_irc](https://github.com/ArminKuburas/ft_irc) | Implemented concurrent server handling multiple client connections |
+| | [ft_irc](https://github.com/ArminKuburas/ft_irc) | Implemented concurrent IRC server handling multiple client connections |
 | **C++** | [CPP Modules](https://github.com/pmarkaide/42_cpp) | Transition to OOP principles and fundamentals |
